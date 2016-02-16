@@ -17,10 +17,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `midwestbjj_andreramos`
+-- Database: `andreramosbjj`
 --
-CREATE DATABASE IF NOT EXISTS `midwestbjj_andreramos` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `midwestbjj_andreramos`;
+CREATE DATABASE IF NOT EXISTS `andreramosbjj` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `andreramosbjj`;
 
 -- --------------------------------------------------------
 
