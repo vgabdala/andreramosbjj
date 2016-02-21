@@ -31,24 +31,29 @@ Tags: black, gray, red, white, one-column, two-columns, right-sidebar,fixed-layo
 	height : 19px;
 }
 
+/* BLACK BELT */
 #menu-item-38 .bjj_belt_icon {
-	background-image: url(images/belts-menu.gif) 0 -76px;
+	background: url(images/belts-menu.gif) 0 -77px no-repeat;
 }
 
+/* BROWN BELT */
 #menu-item-39 .bjj_belt_icon {
-	background-image: url(images/belts-menu.gif);
+	background: url(images/belts-menu.gif) 0 -57px no-repeat;
 }
 
+/* PURPLE BELT */
 #menu-item-40 .bjj_belt_icon {
-	background-image: url(images/belts-menu.gif);
+	background: url(images/belts-menu.gif) 0 -38px no-repeat;
 }
 
+/* BLUE BELT */
 #menu-item-41 .bjj_belt_icon {
-	background-image: url(images/belts-menu.gif);
+	background: url(images/belts-menu.gif) 0 -19px no-repeat;
 }
 
+/* WHITE BELT */
 #menu-item-42 .bjj_belt_icon {
-	background-image: url(images/belts-menu.gif);
+	background: url(images/belts-menu.gif) 0 0 no-repeat;
 }
 /*--------------------------------------------------------------
 1.0 - Reset  
